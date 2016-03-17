@@ -250,8 +250,7 @@ function create_config( )
     about_text = [[
 https://github.com/avastteam98/avast2-bot
 
-channel : @avast_team
-sodu : @arash_avast
+sodu : parsa & Hossein
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -316,7 +315,7 @@ Only sudo users can run this command
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
-By : parsa alemi
+By : parsa alemi & hossein
 
 ]],
     help_text = [[
@@ -517,7 +516,7 @@ avast2 Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-By : parsa alemi
+By : parsa alemi & hossein
 
 G00D LUCK ^_^
 ]]
