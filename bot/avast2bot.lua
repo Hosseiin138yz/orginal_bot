@@ -244,7 +244,7 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {123627901},--Sudo users
+	    sudo_users = {123627901,105831687},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
@@ -316,7 +316,7 @@ Only sudo users can run this command
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
-ch: @avast_team
+By : parsa alemi
 
 ]],
     help_text = [[
@@ -517,7 +517,7 @@ avast2 Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel: @avast_team
+By : parsa alemi
 
 G00D LUCK ^_^
 ]]
